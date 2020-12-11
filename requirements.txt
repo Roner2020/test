@@ -1,0 +1,11 @@
+line-bot-sdk
+bs4
+flask
+pymongo
+matplotlib
+datetime
+pandas == 0.23.4
+pandas_datareader
+fix_yahoo_finance == 0.0.22
+mpl_finance
+html5lib
